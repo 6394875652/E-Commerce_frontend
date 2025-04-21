@@ -1,8 +1,22 @@
-# React + Vite
+## E-Commerce-frontend 🎯
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+ Responsive E-Commerce website using MERN STACK
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+
+
+
+
+## Website Link 💻
+[Website Link](https://e-commerce-frontend-eight-chi.vercel.app/)
+
+## Technologies used 🛠️
+**Design**: *Css & Styled Components*<br />
+ <br />
+    - **material-icon**: for good icon <br />
+    - **Context API**: for state management <br />
+    - **bootstrap**: well structured navbar used <br />
+    - **google-font**: smooth google font used <br />
+    - **unsplash**: image are take from unspalash <br />
+    - **concurrently**: for running multiple scripts concurrently <br />
